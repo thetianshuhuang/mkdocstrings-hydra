@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier.
+_commit: 1.4.5
+_src_path: gh:mkdocstrings/handler-template
+author_email: tianshu2@andrew.cmu.edu
+author_fullname: Tianshu Huang
+author_username: thetianshuhuang
+copyright_date: '2025'
+copyright_holder: Tianshu Huang
+copyright_holder_email: tianshu2@andrew.cmu.edu
+copyright_license: MIT
+insiders: false
+language: Hydra
+project_description: A Hydra config handler for mkdocstrings.
+project_name: mkdocstrings-hydra
+python_package_distribution_name: mkdocstrings-hydra
+python_package_import_name: hydra
+repository_name: mkdocstrings-hydra
+repository_namespace: thetianshuhuang
+repository_provider: github.com
+
